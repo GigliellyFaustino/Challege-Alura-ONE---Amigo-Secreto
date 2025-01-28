@@ -20,5 +20,6 @@ e realizar o sorteio de forma aleatorias logo em seguida.
 
 https://github.com/user-attachments/assets/6c9cb03c-00c1-45c9-a60d-1ff6162970b4
 
-# 📁 Acesso ao projeto 
+<h2 align = "center"> 📁 Acesso ao projeto </h2>
+https://challege-alura-one-amigo-secreto.vercel.app/
 
